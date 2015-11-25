@@ -1,2 +1,1 @@
-# test
-Test repo
+This repository tests Bamboo
